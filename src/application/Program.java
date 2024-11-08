@@ -49,7 +49,7 @@ public class Program {
 		sellerDao.update(seller);
 		System.out.println("Updated");
 		
-		
+		System.out.println();
 		System.out.println("=== TEST 6: seller insert ====");
 		System.out.println("Enter id for delete test: ");
 		int id = sc.nextInt();
